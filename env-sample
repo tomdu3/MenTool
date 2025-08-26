@@ -1,0 +1,5 @@
+# copy this file to .env and fill in the values
+CLOUDINARY_URL=cloudinary://link
+DATABASE_URL=link_to_postgres_db
+PORT=8000
+SECRET_KEY=secret_key
